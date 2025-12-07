@@ -7,7 +7,7 @@ import (
 	"syscall"
 	"time"
 
-	"keylogger-go/keylogger" // or your package path
+	"github.com/RiccardoZappitelli/GoKeylogger/keylogger"
 )
 
 func main() {
