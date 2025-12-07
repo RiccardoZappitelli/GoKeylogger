@@ -1,3 +1,3 @@
-module keylogger-go
+module github.com/RiccardoZappitelli/GoKeylogger
 
 go 1.24.2
